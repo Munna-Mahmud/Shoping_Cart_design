@@ -139,22 +139,22 @@ html, body {
     background-color: #2D9CDB;
 }
 
-.tour-row {
+/* .tour-row {
     border-bottom: 1px solid black;
     padding-bottom: 1em;
     margin-bottom: 1em;
-}
+} */
 
-.tour-row:last-child {
+/* .tour-row:last-child {
     border: none;
 }
 
 .tour-item {
     display: inline-block;
     padding-right: .5em;
-}
+} */
 
-.tour-date {
+/* .tour-date {
     color: #555;
     width: 11%;
     font-weight: bold;
@@ -170,7 +170,7 @@ html, body {
 
 .tour-btn {
     max-width: 19%;
-}
+} */
 
 .shop-item {
     margin: 30px;
